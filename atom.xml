@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>身辺整理ができない</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shimpen-seiri.github.io/"/>
+  <updated>2016-10-02T04:06:54.000Z</updated>
+  <id>https://shimpen-seiri.github.io/</id>
+  
+  <author>
+    <name>shimpen-seiri</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>身辺整理ができない</title>
+    <link href="https://shimpen-seiri.github.io/2016/10/start/"/>
+    <id>https://shimpen-seiri.github.io/2016/10/start/</id>
+    <published>2016-10-01T15:00:00.000Z</published>
+    <updated>2016-10-02T04:06:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以前から「やらなくちゃ」と思いつつ、ほとんど何もやれていない。<br>身辺整理できている人はどうやってモチベーションを維持してるんだろう。<br>ブログを書くようにしたらできるようになるんだろうか。</p>
+<p>涼しくなってきたので、そろそろ始めないと。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以前から「やらなくちゃ」と思いつつ、ほとんど何もやれていない。&lt;br&gt;身辺整理できている人はどうやってモチベーションを維持してるんだろう。&lt;br&gt;ブログを書くようにしたらできるようになるんだろうか。&lt;/p&gt;
+&lt;p&gt;涼しくなってきたので、そろそろ始めないと。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="diary" scheme="https://shimpen-seiri.github.io/tags/diary/"/>
+    
+  </entry>
+  
+</feed>
