@@ -1,0 +1,50 @@
+<%
+	var title = page.title;
+
+	if (is_archive()){
+		title = 'Archives';
+
+		if (is_month()){
+			title += ': ' + page.year + '/' + page.month;
+		} else if (is_year()){
+			title += ': ' + page.year;
+		}
+	} else if (is_category()){
+		title = 'Category: ' + page.category;
+	} else if (is_tag()){
+		title = 'Tag: ' + page.tag;
+	}
+%>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
+	<% if ( is_home() ) { %>
+	<meta name="description" content="<%- config.description %>">
+	<% } %>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<% if (title){ %>
+	<meta property="og:title" content="<%= title %>">
+	<% } %>
+	<% if ( is_home() ) { %>
+	<meta property="og:url" content="<%- config.url + config.root %>">
+	<link rel="canonical" href="<%- config.url + config.root %>">
+	<% } %>
+	<% if ( is_post() ) { %>
+	<meta property="og:url" content="<%- permalink %>">
+	<link rel="canonical" href="<%- permalink %>">
+	<% } %>
+	<meta property="og:site_name" content="<%= config.title %>">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="<%- config.root %>css/style.css">
+
+	<% if (config.rss) { %>
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="<%- config.rss %>">
+	<% } %>
+	<% if (config.feed && config.feed.type == 'atom') { %>
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="<%- config.feed.path %>">
+	<% } %>
+	<% if (config.feed && config.feed.type == 'rss') { %>
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="<%- config.feed.path %>">
+	<% } %>
+</head>

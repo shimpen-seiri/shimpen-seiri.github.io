@@ -1,0 +1,10 @@
+<footer role="contentinfo" class="l-footer">
+	<div class="l-footer__author">
+		<ul>
+			<li><a href="<%- config.root %>" rel="home">HOME</a></li>
+			<% if (config.rss || config.feed) {  %>
+			<li><a href="<%- config.root %><%= (config.rss || config.feed.path) %>">RSS</a></li>
+			<% } %>
+		</ul>
+	</div>
+</footer>

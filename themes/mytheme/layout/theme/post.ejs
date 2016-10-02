@@ -1,0 +1,11 @@
+<% permalink = config.url + config.root + post.path %>
+<main role="main">
+	<article class="p-article">
+		<h1 class="p-article__title"><%- post.title %></h1>
+		<%- partial('post/meta') %>
+		<div class="p-article__body">
+			<%- post.content %>
+		</div>
+	</article>
+	<%- partial('post/navigation') %>
+</main>

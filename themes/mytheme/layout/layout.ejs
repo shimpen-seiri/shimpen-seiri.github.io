@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<%- partial('theme/head') %>
+<% if (typeof page.title == 'undefined') { %>
+<body id="top" class="home-template">
+<% } else { %>
+<body id="top" class="post-template">
+<% } %>
+<div class="l-container">
+<%- partial('theme/header') %>
+<div class="l-body">
+<%- body %>
+</div>
+<%- partial('theme/footer') %>
+</div>
+</body>
+</html>
