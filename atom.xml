@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>身辺整理ができない</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shimpen-seiri.github.io/"/>
+  <updated>2016-12-28T02:04:34.000Z</updated>
+  <id>https://shimpen-seiri.github.io/</id>
+  
+  <author>
+    <name>shimpen-seiri</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>もったいないと思わずに衣類を捨てる</title>
+    <link href="https://shimpen-seiri.github.io/2016/12/throw-away-clothes/"/>
+    <id>https://shimpen-seiri.github.io/2016/12/throw-away-clothes/</id>
+    <published>2016-12-28T03:00:00.000Z</published>
+    <updated>2016-12-28T02:04:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近になって、捨てるべきものに衣類が非常に多いことに気がついた。</p>
+<ul>
+<li>単に最近着ていない衣類</li>
+<li>着られなくなったたけど、後で捨てるつもりで別によせておいた衣類</li>
+</ul>
+<p>靴も含めて、これら全部捨てていなかった。<br>自分の場合はクローゼットのスペースが全然無いので、ほとんど折りたたんで積み上げたり袋に入れたりしていたので、結構なスペースをとっていた。</p>
+<h2 id="来年に確実に使うかどうか"><a href="#来年に確実に使うかどうか" class="headerlink" title="来年に確実に使うかどうか"></a>来年に確実に使うかどうか</h2><p>「来年の同じ時季に使うだろう」と思って、衣類をしまっておくパターン。<br>なにか雑巾にでも使えるからと捨てずにとっておくパターン。</p>
+<p>着なくなったものを全然捨てていないことにようやく気がついた。<br>昨年からの1年間に着てない服は全部捨てることにした。</p>
+<h2 id="1年のはじめに衣類を買い揃え、他はすべて捨てる"><a href="#1年のはじめに衣類を買い揃え、他はすべて捨てる" class="headerlink" title="1年のはじめに衣類を買い揃え、他はすべて捨てる"></a>1年のはじめに衣類を買い揃え、他はすべて捨てる</h2><p>その年もしくは時季だけに使う衣類を買って、他は着られる状態でもすべて捨てていくと言っている知り合いがいた。</p>
+<p><strong> 予算を決めて、その年に使う衣類を年の初めに予め買ってしまう </strong> らしい。<br>お気に入りのものやスーツなどは別として、基本的には次の年には持ち越さないと言っていた。</p>
+<p>初めて聞いたときは「もったいない」と思ったが、捨てられない自分に気づいた今はなんとなく理解できる気がする。最初に1年で使う衣類をすべて買い揃えるのは大変かもしれないが、季節ごとに買い、終わったら捨てるというのなら自分でもできそうな気がする。</p>
+<h2 id="できれば残しておきたいというもの以外を捨ててみた"><a href="#できれば残しておきたいというもの以外を捨ててみた" class="headerlink" title="できれば残しておきたいというもの以外を捨ててみた"></a>できれば残しておきたいというもの以外を捨ててみた</h2><p>基本的にすべて捨てるという覚悟で、とにかく衣類をゴミ袋に突っ込んでいくという作業を行ったところ、ほんの5〜10分程度でゴミ袋3つ分くらいになってしまった。家電・金属類と比べて捨てる手間も少ないので、ちょっとの時間で結構な達成感が得られた。</p>
+<p>ミニマリストとかいう人や「断捨離」とか言ってる人たちは、日頃からこんなかんじで行動できる人種なんだろうな…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近になって、捨てるべきものに衣類が非常に多いことに気がついた。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;単に最近着ていない衣類&lt;/li&gt;
+&lt;li&gt;着られなくなったたけど、後で捨てるつもりで別によせておいた衣類&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;靴も含めて、これら全部捨てていなかった。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="diary" scheme="https://shimpen-seiri.github.io/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>スキャナーとオンラインストレージ</title>
+    <link href="https://shimpen-seiri.github.io/2016/10/scan-to-cloud-storage/"/>
+    <id>https://shimpen-seiri.github.io/2016/10/scan-to-cloud-storage/</id>
+    <published>2016-10-10T14:00:00.000Z</published>
+    <updated>2016-12-28T00:34:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以前から、HDDのデータや写真、本、CDのいくらかは、オンライン（クラウド）ストレージサービスにアップロードするという方法をとっている。</p>
+<h2 id="オンラインストレージ"><a href="#オンラインストレージ" class="headerlink" title="オンラインストレージ"></a>オンラインストレージ</h2><p>今どき知らない人は少ないと思うけど以下のようなサービス。<br>個人的にはDropboxとGoogle Driveしか使ってない。</p>
+<ul>
+<li>Dropbox</li>
+<li>Google Drive</li>
+<li>OneDrive</li>
+<li>Amazon Drive</li>
+</ul>
+<h3 id="メリット"><a href="#メリット" class="headerlink" title="メリット"></a>メリット</h3><ul>
+<li>データが消える恐れがほとんどない</li>
+<li>外出先でも閲覧や削除ができる</li>
+<li>検索できる</li>
+</ul>
+<h3 id="デメリット"><a href="#デメリット" class="headerlink" title="デメリット"></a>デメリット</h3><ul>
+<li>有料プランだと月額でお金がかかる</li>
+<li>容量が少なめ</li>
+</ul>
+<p>Googleドライブの100GBプラン（月200円）を契約しているけど今のところ半分も使っていない。データのほとんどは一眼レフで撮った写真と、スキャンした本。</p>
+<p>自宅のHDDに外出先からアクセスしたいと思ったらNASというものを買うことになるので一度に数万円かかる。バックアップもちゃんとしたいと思ったらHDDを追加することになるし、壊れたらまた買わないといけないし・・・で、身辺整理どころかモノが余計に増えていく。</p>
+<p>多少の使いづらさはあっても、やっぱりオンラインストレージが強いと思う。</p>
+<h2 id="紙モノは自炊"><a href="#紙モノは自炊" class="headerlink" title="紙モノは自炊"></a>紙モノは自炊</h2><p>本や、とっておく必要のありそうな書類などは全部スキャナーで自炊。<br>複合機にくっついてるような1枚ずつスキャンするタイプじゃなく、数十枚をセットしてザーッザーッ・・・とスキャンしてくれるやつ。</p>
+<h3 id="とはいえちょっと面倒"><a href="#とはいえちょっと面倒" class="headerlink" title="とはいえちょっと面倒"></a>とはいえちょっと面倒</h3><p>また読みたくなるかもしれないと思って、持っている漫画を全部スキャンしてたら結構大変。<br>（スキャン自体よりも裁断が手間かもしれない）</p>
+<p>スキャンするのが面倒なら、思い切って捨てるか、死ぬまでとっておく。</p>
+<h2 id="お気に入りの＊＊＊なデータ"><a href="#お気に入りの＊＊＊なデータ" class="headerlink" title="お気に入りの＊＊＊なデータ"></a>お気に入りの＊＊＊なデータ</h2><p>「＊＊＊な画像や動画はどうするんだ」と思ってHDDの処分に困る人も多いはず。</p>
+<p>ストレージサービスによっては、そういったデータは勝手に消されてしまうというウワサを聞いたことがあるが、個人的にDropboxで消された経験はない。また、捨てアカでとった複数のスペース（無料版）にアップロードしていて、一応いつ消されてもいいつもりでいる。</p>
+<p>どこかの動画サイトにアップされているものならURLをメモっておいて、消されたらもったいないものだけDropboxとかに置いておけばいい。</p>
+<p>DVDはお気に入りのシーンだけmp4とかにエンコードすることはある。時間のない社会人だったら多少金を出しても普段から某D社の動画で見るのが一番ラクだと思う。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以前から、HDDのデータや写真、本、CDのいくらかは、オンライン（クラウド）ストレージサービスにアップロードするという方法をとっている。&lt;/p&gt;
+&lt;h2 id=&quot;オンラインストレージ&quot;&gt;&lt;a href=&quot;#オンラインストレージ&quot; class=&quot;headerlink&quot; tit
+    
+    </summary>
+    
+    
+      <category term="tool" scheme="https://shimpen-seiri.github.io/tags/tool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手動式シュレッダーは身辺整理に使うものじゃない</title>
+    <link href="https://shimpen-seiri.github.io/2016/10/hand-crank-paper-shredder/"/>
+    <id>https://shimpen-seiri.github.io/2016/10/hand-crank-paper-shredder/</id>
+    <published>2016-10-02T15:00:00.000Z</published>
+    <updated>2016-12-28T00:34:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>給与やクレジットカードなどの明細を処分するため、手動式シュレッダーを購入。</p>
+<p>最初は1500円くらいでシュレッダーが買えるんだからお得だと思ってはいたものの、ゴミ袋の半分くらいまでたまったところで飽きた。<br>せいぜい1〜3枚くらいしか一度に裁断できないのに、何十回、何百回と繰り返すのはキツイ。</p>
+<p>何も考えずに買ってしまったのが悪かった。<br>1万円くらい出せば電動でそれなりのものが買えるので、ちょっと高いと思っても絶対そっちの方がいい。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;給与やクレジットカードなどの明細を処分するため、手動式シュレッダーを購入。&lt;/p&gt;
+&lt;p&gt;最初は1500円くらいでシュレッダーが買えるんだからお得だと思ってはいたものの、ゴミ袋の半分くらいまでたまったところで飽きた。&lt;br&gt;せいぜい1〜3枚くらいしか一度に裁断できないのに、
+    
+    </summary>
+    
+    
+      <category term="diary" scheme="https://shimpen-seiri.github.io/tags/diary/"/>
+    
+      <category term="tool" scheme="https://shimpen-seiri.github.io/tags/tool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>身辺整理ができない</title>
+    <link href="https://shimpen-seiri.github.io/2016/10/start/"/>
+    <id>https://shimpen-seiri.github.io/2016/10/start/</id>
+    <published>2016-10-01T15:00:00.000Z</published>
+    <updated>2016-12-28T00:34:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以前から「やらなくちゃ」と思いつつ、ほとんど何もやれていない。<br>身辺整理できている人はどうやってモチベーションを維持してるんだろう。<br>ブログを書くようにしたらできるようになるんだろうか。</p>
+<p>涼しくなってきたので、そろそろ始めないと。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以前から「やらなくちゃ」と思いつつ、ほとんど何もやれていない。&lt;br&gt;身辺整理できている人はどうやってモチベーションを維持してるんだろう。&lt;br&gt;ブログを書くようにしたらできるようになるんだろうか。&lt;/p&gt;
+&lt;p&gt;涼しくなってきたので、そろそろ始めないと。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="diary" scheme="https://shimpen-seiri.github.io/tags/diary/"/>
+    
+  </entry>
+  
+</feed>
